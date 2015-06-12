@@ -7,4 +7,4 @@ Example assembly language programs for IA-32
  - ld
  - make
 
-    apt-get install nasm ld make
+`apt-get install nasm ld make`
